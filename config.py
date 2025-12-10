@@ -1,5 +1,5 @@
 customhost = "database-1.cl7eiyrmcpqj.us-east-1.rds.amazonaws.com"
-customuser = "jiawen"
+customuser = "admin"
 custompass = "1234567633"
 customdb = "employee"
 custombucket = "jiawen-employee"
